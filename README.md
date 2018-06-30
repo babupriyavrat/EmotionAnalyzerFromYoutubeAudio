@@ -15,3 +15,5 @@ once the pyAudioAnalysis is installed, run the following command:
 #### python audioAnalysis.py trainRegression -i data/speechEmotion/ --method svm -o data/svmSpeechEmotion 
 
 Make sure to make changes in model path and audio slice dir in jupyter notebook before running.
+https://github.com/babupriyavrat/EmotionAnalyzerFromYoutubeAudio/blob/master/Emotion%20Detection%20from%20Youtube%20Audio.ipynb
+
