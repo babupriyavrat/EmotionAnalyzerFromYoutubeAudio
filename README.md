@@ -3,8 +3,11 @@ This repository allows you to retrieve emotion in two classes: Arousal and Valen
 
 ## Requirements
 To work with this repository, you need to have following dependencies installed on python 2.7
+
 pip install youtube_dl
+
 pip install librosa
+
 pip install pyAudioAnalysis
 
 once the pyAudioAnalysis is installed, run the following command:
